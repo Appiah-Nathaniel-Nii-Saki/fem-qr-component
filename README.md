@@ -1,4 +1,4 @@
 # About project
 
-Qr component by frontend-mentor
+Qr component by frontend-mentor.
 
